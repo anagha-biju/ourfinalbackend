@@ -24,6 +24,9 @@
 
     "node": ">=14 <18.17.1"
   },
+  "resolutions": {
+    "cssnano-preset-simple": "3.0.0"
+  },
   "devDependencies": {},
   "repository": {
     "type": "git",
